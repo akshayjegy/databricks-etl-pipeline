@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ HR Analytics ETL Pipeline on Databricks (PySpark + Delta Lake)
 
 ## Executive Summary
@@ -48,3 +49,7 @@ Databricks is the leading cloud data platform used by 60%+ of Fortune 500 compan
 - Add streaming data ingestion with Spark Structured Streaming
 - Build automated pipeline with Databricks Jobs scheduler
 - Connect to Power BI for live dashboard on Delta table
+=======
+# databricks-etl-pipeline
+Cloud ETL pipeline built on Databricks using PySpark, Spark SQL, and Delta Lake to process HR analytics data at scale
+>>>>>>> c3cc2f33b5e3d98bf6d6db8763d93678b3f20eaf
